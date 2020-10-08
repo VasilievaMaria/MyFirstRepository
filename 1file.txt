@@ -1,5 +1,3 @@
 hello World!
 Hello World!
-
-good day (from master)
-line from user1
+User1 change anything
